@@ -1,0 +1,32 @@
+body {
+    background-color: aqua;
+}
+
+#btn-container {
+    background: beige;
+    width: 90%;
+    height: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.button {
+    background: tomato;
+    height: 75px;
+    width: 75px;
+    margin: 25px;
+    color: white;
+    display: inline-block;
+}
+
+#win {
+    color: green;
+}
+
+#loss {
+    color: red;
+}
+
+#tie {
+    color: blue;
+}
